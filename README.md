@@ -25,4 +25,4 @@ This repository contains the following files:
 > Contributions to this project are welcome. If you find a bug or would like to suggest an improvement, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License
